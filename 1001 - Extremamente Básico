@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int A, B;
+
+    printf("Insira o valor de A:\n");
+    scanf("%i", &A);
+
+    printf("\nInsira o valor de B:\n");
+    scanf("%i", &B);
+
+    int resultado = A + B;
+
+    printf("\nX = %d", resultado);
+
+    return 0;
+}
