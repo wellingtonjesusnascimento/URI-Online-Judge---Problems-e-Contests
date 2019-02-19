@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    float n = 3.14159;
+    int raio = 2.
+
+    float resultado = n*(2*2)
+    return 0;
+}
